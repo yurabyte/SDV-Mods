@@ -35,14 +35,14 @@
     ** Generic Mod Config Menu UI
     *********/
     // TODO
-    "config.title.controls": "Controls",
-    "config.show-menu-key.name": "Show menu key",
-    "config.show-menu-key.desc": "The keybind which opens the menu (when no other menu is open).",
+    "config.title.controls": "Kontroller",
+    "config.show-menu-key.name": "Menü tuşunu göster",
+    "config.show-menu-key.desc": "Menüyü açan tuş bağlantısı (başka bir menü açık olmadığında).",
 
-    "config.title.options": "Options",
-    "config.apply-trash-can-upgrade.name": "Apply trash can upgrade",
-    "config.apply-trash-can-upgrade.desc": "When you upgrade your trash can to reclaim part of the price of trashed items, whether that upgrade applies in the item spawner menu too.",
+    "config.title.options": "Seçenekler",
+    "config.apply-trash-can-upgrade.name": "Çöp kutusu yükseltmesini uygula",
+    "config.apply-trash-can-upgrade.desc": "Çöpe atılan eşyaların fiyatının bir kısmını geri almak için çöp kutunuzu yükselttiğinizde, bu yükseltmenin eşya spawn menüsünde de geçerli olup olmadığı.",
 
-    "config.title.hide-categories": "Hide categories",
-    "config.hide-category.desc": "Whether to hide the '{{name}}' category in the UI. If it's hidden, items in this category will not be accessible through the spawn menu."
+    "config.title.hide-categories": "Kategorileri gizle",
+    "config.hide-category.desc": "Kullanıcı arabiriminde '{{name}}' kategorisinin gizlenip gizlenmeyeceği. Gizliyse, bu kategorideki öğelere belirme menüsünden erişilemez."
 }
